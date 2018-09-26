@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "BoJack Horseman",
+    "image": "http://pixel.nymag.com/imgs/daily/vulture/2015/07/21/21-raphael-bob-waksberg-chatroom-silo.w190.h190.2x.png",
+    "occupation": "Actor",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "name": "Diane Nguyen",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/b/b1/Diane_Nguyen-0.png/revision/latest?cb=20180913055105",
+    "occupation": "Blogger, Ghostwriter",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "name": "Princess Carolyn",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/d/de/Princess_Carolyn.png/revision/latest?cb=20171017002131",
+    "occupation": "Agent",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "name": "Todd Chaves",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/5/53/Todd_Chavez.png/revision/latest?cb=20171017000218",
+    "occupation": "Slacker",
+    "isClicked": false
+  },
+  {
+    "id": 5,
+    "name": "Mr. Witherspoon",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/8/84/Mr_Witherspoon.png/revision/latest?cb=20180423001715",
+    "occupation": "Owner of Vigor Agency",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "name": "Mr. Peanutbutter",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/3/33/Mr._Penautbutter.png/revision/latest?cb=20170927120506",
+    "occupation": "Actor",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "name": "Pinky Penguin",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/b/b3/Pinky_Penguin.png/revision/latest?cb=20171127004636",
+    "occupation": "Publisher",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "name": "Beatrice Horseman",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/5/51/Old_Beatrice_Horseman_Season_4.png/revision/latest?cb=20171127015940",
+    "occupation": "Mother",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "name": "A Ryan Seacrest Type",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/2/23/A_Ryan_Seacrest_Type.png/revision/latest/scale-to-width-down/130?cb=20180320012608",
+    "occupation": "Host of Excess Hollywood",
+    "isClicked": false
+  },
+  {
+    "id": 10,
+    "name": "Hollyhock Manheim-Mannheim-Guerrero-Robinson-Zilberschlag-Hsung-Fonzarelli-McQuack",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/3/30/Hollyhock_1.png/revision/latest?cb=20180630205417",
+    "occupation": "BoJack's Daughter",
+    "isClicked": false
+  },
+  {
+    "id": 11,
+    "name": "Sebastian St. Clair",
+    "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/a/ae/Sebastian_St_Clair.png/revision/latest?cb=20180423003040",
+    "occupation": "Millionaire",
+    "isClicked": false
+  },
+  {
+    "id": 12,
+    "name": "Vincent Adultman",
+    "image": "https://i0.wp.com/www.actionfigureinsider.com/wpress/wp-content/uploads/2016/12/bojack_adulting.png?fit=408%2C408",
+    "occupation": "Business Factory Manager",
+    "isClicked": false
+  }
+]
