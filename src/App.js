@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import ModalConductor from "./components/ModalConductor";
 import ScoreCard from "./components/ScoreCard";
 import CharacterCard from "./components/CharacterCard";
 import Wrapper from "./components/Wrapper";
@@ -31,12 +32,20 @@ class App extends Component {
       if (currentScore > this.state.topScore) {
         this.setState({ topScore: currentScore });
       }
+      if (currentScore === characters.length) {
+        setTimeout(function() {
+          alert("You Win!");
+        }, 500);
+      }
     } else {
       this.setState({ currentScore: 0 });
       const characters = this.state.characters.map(function(character) {
         character.hasBeenClicked = false;
       });
-      this.setState(characters);
+      this.setState({
+        characters
+      });
+      alert("You Lose, try again!");
     }
   };
 
