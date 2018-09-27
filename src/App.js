@@ -95,6 +95,9 @@ class App extends Component {
       <Wrapper>
         <Title>
           BoJack Horseman Memory Game
+          <h6>
+            Click an image to earn a point! Don't click the same image twice!
+          </h6>
           <ScoreCard
             currentScore={this.state.currentScore}
             topScore={this.state.topScore}
